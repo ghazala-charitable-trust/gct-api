@@ -1,0 +1,17 @@
+{
+    "DB": {
+        "CREDENTIALS": "none",
+        "NAME": "auth-microservice",
+        "HOST": "localhost",
+        "PORT": "27017"
+    },
+    "SERVER": {
+        "PORT": 8000,
+        "SECRET": "s3cret",
+        "HOST_ADDRESS": "localhost:8000"
+    },
+    "WINSTON": {
+        "FILENAME": "system.log",
+        "DIRNAME": "logs"
+    }
+}

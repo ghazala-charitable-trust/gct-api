@@ -1,0 +1,9 @@
+{
+    "DB": {
+        "HOST": "DB_HOST"
+    },
+    "SERVER": {
+        "SECRET": "APP_SECRET",
+        "HOST_ADDRESS": "HOST_ADDRESS"
+    }
+}

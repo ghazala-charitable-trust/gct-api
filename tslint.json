@@ -1,0 +1,35 @@
+{
+    "extends": [
+        "tslint:latest", "tslint-config-prettier"
+    ],
+    "rules": {
+        "no-duplicate-imports": false,
+        "interface-name": true,
+        "max-line-length": [
+            true,
+            100
+        ],
+        "no-console": [
+            true,
+            "time",
+            "timeEnd",
+            "trace"
+        ],
+        "no-string-literal": false,
+        "object-literal-sort-keys": false,
+        "ordered-imports": true,
+        "trailing-comma": [
+            false,
+            {
+                "multiline": "always",
+                "singleline": "never"
+            }
+        ],
+        "variable-name": [
+            true,
+            "allow-leading-underscore",
+            "ban-keywords",
+            "check-format"
+        ]
+    }
+}

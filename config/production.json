@@ -1,0 +1,7 @@
+{
+    "DB": {
+        "CREDENTIALS": "qa-system-api",
+        "NAME": "qa-system",
+        "HOST": "qa-system-o6fwf.mongodb.net"
+    }
+}
